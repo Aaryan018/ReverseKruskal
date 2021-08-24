@@ -1,7 +1,6 @@
 //MST.cpp file
 //Description: This program finds mst from a file in which edges of a graph are given
 //Author: Aaryan Gupta
-//Creation Date: July 22, 2021
 
 #include<iostream>
 #include<vector>
